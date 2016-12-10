@@ -10,6 +10,8 @@ ILS - Z534 Search Project on Yelp Dataset Challenge
 
 ## Task 2
 
+Question: To help the entrepreneurs find the best location to build a successful restaurant.
+
 Requirements:
 - Python Version - 2.7.12
 - MongoDB Version - 3.4

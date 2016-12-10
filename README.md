@@ -9,3 +9,12 @@ ILS - Z534 Search Project on Yelp Dataset Challenge
 * [Yash Sumant Ketkar](https://github.com/yashketkar) (yketkar@indiana.edu)
 
 ## Task 2
+
+Requirements:
+- Python Version - 2.7.12
+- MongoDB Version - 3.4
+- jupyter notebook
+- Run `pip install pymongo`
+- Run `pip install gensim`
+- Run `pip install nltk`
+- Run `import nltk` and `nltk.download()` in a python shell

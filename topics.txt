@@ -1,60 +1,60 @@
-#0: Ambience or Service or Staff
-#1: Food
-#2: Food or Italian Food
-#3: Food or Sides
-#4: Dessert
-#5: Breakfast
-#6: Food or Price
-#7: Atmosphere
-#8: Snack or Smoking
-#9: Thai Food
-#10: Food
-#11: Beverages
-#12: Food or Italian Food
-#13: Food or Location
-#14: Food or Snacks
-#15: Locality
-#16: Dining Place
-#17: Variety
-#18: Chinese
-#19: Tequila and Bar
-#20: Mexican Food
-#21: Hot Dogs and Burgers
-#22: Variety
-#23: Bar
-#24: Couple Place/Dining
-#25: Turkey & BBQ
-#26: Price
-#27: Hygiene
-#28: Service
-#29: Fast-Food
-#30: Food
-#31: Service
-#32: Italian Food
-#33: Beverages
-#34: Italian Food
-#35: Location
-#36: Breakfast or Cafe
-#37: Food or Sandwich
-#38: Food or Take-out
-#39: Food
-#40: Food or Vegan
-#41: Breakfast
-#42: Bar or Beverages
-#43: Ambience or Service
-#44: Group/Team Outing
-#45: Spanish Food
-#46: Parking
-#47: Family
-#48: Wait Time and Management
-#49: Lunch Buffet
+#0: bagel and shakes
+#1: Fun Ambience
+#2: Service
+#3: Availabilty
+#4: Ambience
+#5: Variety
+#6: Breakfast
+#7: Thai Food
+#8: Popular Deals
+#9: Groupon
+#10: Italian Food
+#11: Mexican Food
+#12: Dessert
+#13: Music 
+#14: Fresh food
+#15: Crepe
+#16: Hot Dogs and Burgers
+#17: Veggies
+#18: Kid friendly
+#19: Ambience and Service
+#20: Dessert
+#21: Affordable and Service
+#22: Variety on Menu
+#23: Cafe
+#24: Popularity
+#25: Overrated 
+#26: Pizza and Delivery
+#27: Chinese
+#28: Food
+#29: Chilli and Dessert
+#30: Bar
+#31: wine place / bar 
+#32: Promptness in Service and Waiting
+#33: Sushi 
+#34: Greek Food
+#35: Burger
+#36: brewery
+#37: Service
+#38: French breakfast
+#39: bbq
+#40: In a mall
+#41: Location and Service
+#42: Homemade food
+#43: Brunch
+#44: Salad and Snack
+#45: Sandwich
+#46: Service and Management
+#47: Vegan
+#48: Wings
+#49: Bar/Lounge
 #50: Lounge
 #51: View of City
 #52: Homemade Food
-#53: Management
-#54: Ambience
-#55: BreakFast
-#56: Located in Mall
-#57: Ambience and Fun
-#58: Mexican Food
-#59: Promptness in Service
+#53: Seafood
+#54: Steakhouse
+#55: Parking availability
+#56: Animal friendly cafe
+#57: Pizza
+#58: Lunch place
+#59: Ambience and Service
